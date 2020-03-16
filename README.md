@@ -1,3 +1,7 @@
+# walk the dog
+A Spark AR effect for Instagram.
+
+
 ## Inspiration
 
 We wanted to create an experience that is fun and engaging, something people would not have thought could be done in Spark AR. Using as many of the core features of Spark AR as we could, our goal was to stretch the limits of what was possible programmatically.
